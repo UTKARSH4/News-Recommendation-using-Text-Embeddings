@@ -1,1 +1,1 @@
-# News-Reommendation-using-Text-Embeddings
+# News-Recommendation-using-Text-Embeddings
